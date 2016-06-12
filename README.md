@@ -1,4 +1,4 @@
-# csv2wiki
+# CSV File to DokuWikiTable
 Convert CSV to DokuWikiTable
 
 CSV Sperated by Semikolon
